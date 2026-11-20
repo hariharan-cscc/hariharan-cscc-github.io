@@ -9,14 +9,11 @@ navbar_entries:
     url: https://github.com/
 
 project_entries:
-  - title: AI Emerging Technologies - Week1 Assignment
-    url: https://github.com/hariharan-cscc/hariharan-cscc-github.io/blob/main/AI-Emerging-Technologies-Week1-Assignment.md
-    desc: This is an Week1 assignment
+  - title: GitHub Pages-Learning Portfolio
+    url: https://github.com/hariharan-cscc/hariharan-cscc-github.io/blob/main/AI-Emerging-Technologies.md
+    desc: This is Week1 assignment
 
-  - title: Machine
+  - title: Machine Learning Research-Learning Portfolio
     url: template-2-post
-    desc: This is an example project, template 2
+    desc: This is Week2 assignment
 
-  - title: Template 2
-    url: template-2-post
-    desc: This is an example project, template 2
