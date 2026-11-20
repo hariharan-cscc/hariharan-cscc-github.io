@@ -9,9 +9,9 @@ navbar_entries:
     url: https://github.com/
 
 project_entries:
-  - title: Template 1
-    url: template-1-post
-    desc: This is an example project, template 1
+  - title: AI Emerging Technologies - Week1 Assignment
+    url: https://github.com/hariharan-cscc/hariharan-cscc-github.io/AI-Emerging-Technologies-Week1-Assignment.md
+    desc: This is an Week1 assignment
 
   - title: Template 2
     url: template-2-post
