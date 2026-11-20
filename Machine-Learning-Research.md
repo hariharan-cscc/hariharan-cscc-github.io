@@ -34,6 +34,4 @@ Both. [Tonic.ai](https://www.tonic.ai/) is used in production by companies such 
 
 Responsible use means measuring privacy risk instead of assuming it, using protections like differential privacy, and restricting access to the training data. Bias is a second concern: if real data underrepresents certain groups, the synthetic data will too, so applications may be poorly tested for those users.
 
-## Reflection
 
-Working in test data and DevOps, I see AI-generated data as a major speed boost that still needs production-level privacy controls.
