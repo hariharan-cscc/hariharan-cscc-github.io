@@ -1,8 +1,6 @@
 ---
 
-## layout: default title: "Learning Portfolio: AI-Generated Test Data Generation"
-
-# Learning Portfolio: AI-Generated Test Data Generation
+# Machine Learning Portfolio: AI-Generated Test Data Generation
 
 ## 1. Two of the Seven Steps of Machine Learning
 
